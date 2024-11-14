@@ -1,23 +1,16 @@
 # Hi there 👋, I'm Nissim Ohana  
-### Full Stack Developer | Former CTO | Digital Innovator
+### Full Stack Developer | Digital Innovator
 
-With a strong background in both frontend and backend development, project management, and automation, I’m passionate about crafting impactful web solutions.
+Experienced in frontend, backend, project management, and automation, creating impactful web solutions.
 ---
 ## 🛠️ Technical Skills
-
-### Programming Languages
-- **HTML**, **CSS**, **JavaScript**, **TypeScript** 
-### Frontend
-- **React**, **Bootstrap**, **Tailwind**, **Shadcn**
-### Backend
-- **Node.js**, **Express**, **Swagger**
-### Databases
-- **MySQL**, **MongoDB**, **Pinecone**
-### DevOps & Tools
-- **Jenkins**, **Linux**, **Postman**
-
+- **Languages:** HTML, CSS, JavaScript, TypeScript  
+- **Frontend:** React, Bootstrap, Tailwind, Shadcn  
+- **Backend:** Node.js, Express, Swagger  
+- **Databases:** MySQL, MongoDB, Pinecone  
+- **Tools:** Jenkins, Linux, Postman  
 ---
 ## 🧠 Soft Skills
-- **Project Management** – Efficiently manage timelines and resources for successful project delivery.
-- **Teamwork** – Thrive in collaborative environments to achieve common goals.
-- **Problem Solving** – Skilled in analyzing issues and implementing effective solutions.
+- **Project Management** – Effective and efficient project delivery  
+- **Teamwork** – Collaborative and goal-oriented  
+- **Problem Solving** – Analytical and solution-driven
