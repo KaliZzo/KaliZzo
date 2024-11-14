@@ -1,6 +1,5 @@
-# Hi there 👋, I'm Nissim Ohana  
+# Nice to meet you👋
 ### Full Stack Developer | Digital Innovator
-
 Experienced in frontend, backend, project management, and automation, creating impactful web solutions.
 ---
 ## 🛠️ Technical Skills
